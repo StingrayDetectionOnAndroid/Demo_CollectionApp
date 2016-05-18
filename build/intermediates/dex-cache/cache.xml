@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_723238c236766f1d44b9810430ab86756c77cc9a.jar" />
+    </item>
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_ecffab69d9ca3e5f7453bad3cad976ca1489b751.jar" />
+    </item>
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_6c82d04f99a72c3bb839805546ad466cddab5635.jar" />
+    </item>
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_0408000a8b05956e5e18505e19074656c9b5a89e.jar" />
+    </item>
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_37cae885005abff7a6e7a777906323f0d43cd4d7.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_72f34dc3550bb5ac030ea4d16446d7942de5a741.jar" />
+    </item>
+    <item
+        jar="Y:\Bitbucket\RecordApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="Y:\Bitbucket\RecordApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_5024a8577ff52d9630af25ca40329017f80dd01d.jar" />
+    </item>
+
+</items>
